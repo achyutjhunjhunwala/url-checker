@@ -22,7 +22,7 @@ npm run build
 ```
 #### Running Build Version Locally
 ```
-cd dist/
-node index.js source.xlsx
+
+node dist/index.js source.xlsx
 ```
 
