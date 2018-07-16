@@ -1,4 +1,4 @@
-# Job Scrapper
+# Ping Checker
 
 
 Features:
